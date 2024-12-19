@@ -40,6 +40,6 @@ You can download the necessary images for this project using the link provided i
 To use this project, clone the repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/yourusername/alx_html_css.git
+git clone https://github.com/Marioooxi/alx_html_css.git
 cd alx_html_css/css_advanced
 open index.html
